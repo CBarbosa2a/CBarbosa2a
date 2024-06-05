@@ -2,9 +2,9 @@
 
 Meu nome é Kauê Vinicius
 
-Estou estudando
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organizaçãoe compartilhamento dos meus projetos desenvolvidos.
+-Estou estudando
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha organizaçãoe compartilhamento dos meus projetos desenvolvidos.
 
 ###Você pode entra em contato comigo 📧
 
@@ -12,4 +12,4 @@ Utilizo esse espaço para minha organizaçãoe compartilhamento dos meus projeto
 
 -@kauezin_pvp
 
-![](https://media.tenor.com/zZOt7alSzAMAAAAM/gojo-gojo-satoru.gif)
+![](https://media.tenor.com/naanwY1NkuUAAAAM/troll-face.gif)
